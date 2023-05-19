@@ -1,12 +1,39 @@
 {
-    "users": [
-        {"id": "23", "firstName": "Jon", "age": 20, "companyId": "1"},
-        {"id": "24", "firstName": "Jesper", "age": 21, "companyId": "2"},
-        {"id": "25", "firstName": "Joppfrey", "age": 22, "companyId": "1"},
-        {"id": "26", "firstName": "Maestro", "age": 22, "companyId": "2"}
-    ],
-    "companies": [
-        {"id": "1", "name": "Facebook", "description": "site"},
-        {"id": "2", "name": "Instagram", "description": "also facebook"}
-    ]
+  "users": [
+    {
+      "id": "24",
+      "firstName": "Jesper Pettersson",
+      "age": 20,
+      "companyId": "2"
+    },
+    {
+      "id": "25",
+      "firstName": "Joppfrey",
+      "age": 22,
+      "companyId": "1"
+    },
+    {
+      "id": "26",
+      "firstName": "Maestro",
+      "age": 22,
+      "companyId": "2"
+    },
+    {
+      "firstName": "Joppe",
+      "age": 20,
+      "id": "fM821JU"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Facebook",
+      "description": "site"
+    },
+    {
+      "id": "2",
+      "name": "Instagram",
+      "description": "also facebook"
+    }
+  ]
 }
